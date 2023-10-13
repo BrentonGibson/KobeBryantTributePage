@@ -9,4 +9,5 @@ Created a HTML tribute page in Visual Studio Code dedicated to honoring and comm
 - <b>HTML/CSS</b>
 - <b>Visual Studio Code</b>
 
-![image](https://github.com/BrentonGibson/TicTacToe/assets/146798723/13d0acbe-a791-44a8-ba05-bcbe6ee44e4e)
+![image](![image](https://github.com/BrentonGibson/KobeBryantTributePage/assets/146798723/40bf20eb-3314-43a7-9631-4d0581502a62)
+
